@@ -37,3 +37,5 @@ with open("data.json", "w") as f:
 df2= pd.read_json(json_data)
 
 print(df2)
+
+# os dados estão disponiveis no Github
